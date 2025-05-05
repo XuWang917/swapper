@@ -33,10 +33,19 @@ pip install -r requirements.txt
 ├── swapper_gui.py          # CPU版本
 ├── swapper_gui_gpu.py      # GPU版本
 ├── models/                 # 模型文件夹
-│   └── inswapper_128.onnx  # 换脸模型
+    ├── inswapper_128.onnx  # 换脸模型
+    └── buffalo_l
+            1k3d68.onnx
+            2d106det.onnx
+            det_10g.onnx
+            genderage.onnx
+            w600k_r50.onnx
 └── faces/                  # 人脸库文件夹
     └── *.jpg              # 人脸图片
-```
+
+## 模型链接
+
+链接: https://pan.baidu.com/s/1Sikabb9xhDWN2yc1QZC1YQ?pwd=srzk 提取码: srzk
 
 ## 使用方法
 
