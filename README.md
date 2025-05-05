@@ -42,6 +42,7 @@ pip install -r requirements.txt
             w600k_r50.onnx
 └── faces/                  # 人脸库文件夹
     └── *.jpg              # 人脸图片
+```
 
 ## 模型链接
 
