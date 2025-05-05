@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## 模型链接
 
-链接: https://pan.baidu.com/s/1Sikabb9xhDWN2yc1QZC1YQ?pwd=srzk 提取码: srzk
+百度网盘: https://pan.baidu.com/s/1Sikabb9xhDWN2yc1QZC1YQ?pwd=srzk 提取码: srzk
 
 ## 使用方法
 
