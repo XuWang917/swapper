@@ -1,0 +1,9 @@
+└─models
+    │  inswapper_128.onnx
+    │
+    └─buffalo_l
+            1k3d68.onnx
+            2d106det.onnx
+            det_10g.onnx
+            genderage.onnx
+            w600k_r50.onnx
