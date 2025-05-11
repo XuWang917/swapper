@@ -14,8 +14,8 @@
 
 ## 效果展示
 
-<video src="/display/displayVideo.mp4" autoplay="true" controls="controls" width="400" height="300">
-</video>
+![视频演示](display/displayGIF.gif)
+
 
 ## 系统要求
 
