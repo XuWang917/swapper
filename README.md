@@ -12,6 +12,11 @@
 - 实时FPS显示
 - 简洁美观的图形界面
 
+## 效果展示
+
+<video src="/display/displayVideo.mp4" autoplay="true" controls="controls" width="400" height="300">
+</video>
+
 ## 系统要求
 
 - Python 3.7+
